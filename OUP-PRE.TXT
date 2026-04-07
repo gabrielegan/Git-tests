@@ -1,0 +1,783 @@
+   0   <O 226><H XJW1><D 1599><A Weever>
+   0   <K sonnet>
+   0   <T title>{Ad Gulielmum Shakespeare}
+   1   <T verse>Honey-tongued Shakespeare, when I saw thine issue
+   2   I swore Apollo got them, and none other,
+   3   Their rosy-tainted features clothed in tissue,
+   4   Some heaven-born goddess said to be their mother.
+   5   Rose-cheeked Adonis with his amber tresses,
+   6   Fair fire-hot Venus charming him to love her,
+   7   Chaste Lucretia virgin-like her dresses,
+   8   Proud lust-stung Tarquin seeking still to prove her,
+   9   Romeo, Richard, more whose names I know not_
+  10   Their sugared tongues and power-attractive beauty
+  11   Say they are saints although that saints they show not,
+  12   For thousands vows to them subjective duty.
+  13   They burn in love, thy children; Shakespeare het them;
+  14   Go, woo thy muse more nymphish brood beget them.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 227><H XTT><D 1609><A Thorpe>
+   0   <K commendation>
+   0   <T title>[[untitled: Preface to the Sonnets (1609)]]
+   1   <T prose>TO.THE.ONLY.BEGETTER.OF.
+   2   THESE.ENSUING.SONNETS.
+   3   Mr.W.H.ALL.HAPPINESS.
+   4   AND.THAT.ETERNITY.
+   5   PROMISED.
+   6   BY.
+   7   OUR.EVER.LIVING.POET.
+   8   WISHETH.
+   9   THE.WELL-WISHING.
+  10   ADVENTURER.IN.
+  11   SETTING.
+  12   FORTH.
+  13   T.T.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 228><H XNW><D 1609><A anonymous>
+   0   <K commendation>
+   0   <T title>A never writer to an ever reader: news
+   1   <T prose>Eternal reader, you have here a new play never staled
+   2   with the stage, never clapper-clawed with the palms of
+   3   the vulgar, and yet passing full of the palm comical, for
+   4   it is a birth of that brain that never undertook anything
+   5   comical vainly; and were but the vain names of comedies
+   6   changed for the titles of commodities, or of plays for pleas,
+   7   you should see all those grand censors that now style
+   8   them such vanities flock to them for the main grace of
+   9   their gravities, especially this author's comedies, that are
+  10   so framed to the life that they serve for the most common
+  11   commentaries of all the actions of our lives, showing such
+  12   a dexterity and power of wit that the most displeased
+  13   with plays are pleased with his comedies, and all such
+  14   dull and heavy-witted worldlings as were never capable
+  15   of the wit of a comedy, coming by report of them to his
+  16   representations, have found that wit there that they never
+  17   found in themselves, and have parted better witted than
+  18   they came, feeling an edge of wit set upon them more
+  19   than ever they dreamed they had brain to grind it on. So
+  20   much and such savoured salt of wit is in his comedies
+  21   that they seem, for their height of pleasure, to be born
+  22   in that sea that brought forth Venus. Amongst all there
+  23   is none more witty than this, and had I time I would
+  24   comment upon it,though I know it needs not for so
+  25   much as will make you think your testern well bestowed,
+  26   but for so much worth as even poor I know to be stuffed
+  27   in it. It deserves such a labour as well as the best comedy
+  28   in Terence or Plautus. And believe this, that when he is
+  29   gone and his comedies out of sale, you will scramble for
+  30   them, and set up a new English Inquisition. Take this for
+  31   a warning, and at the peril of your pleasure's loss and
+  32   judgement's, refuse not, nor like this the less for not being
+  33   sullied with the smoky breath of the multitude; but thank
+  34   fortune for the scape it hath made amongst you, since
+  35   by the grand possessors' wills I believe you should have
+  36   prayed for them rather than been prayed. And so I leave
+  37   all such to be prayed for, for the states of their
+  38   wits' healths, that will not praise it.
+  39   {Vale.}
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 229><H XJD><D 1610><A Davies>
+   0   <K commendation>
+   0   <T title>To our English Terence, Master Will Shakespeare
+   1   <T verse>Some say, good Will, which I in sport do sing,
+   2   Hadst thou not played some kingly parts in sport
+   3   Thou hadst been a companion for a king,
+   4   And been a king among the meaner sort.
+   5   Some others rail; but rail as they think fit,
+   6   Thou hast no railing but a reigning wit,
+   7   And honesty thou sow'st, which they do reap
+   8   So to increase their stock which they do keep.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 230><H XTF><<D 1614><A Freeman>
+   0   <K sonnet>
+   0   <T title>To Master William Shakespeare
+   1   <T verse>Shakespeare, that nimble Mercury, thy brain,
+   2   Lulls many hundred Argus-eyes asleep,
+   3   So fit for all thou fashionest thy vein;
+   4   At th' horse-foot fountain thou hast drunk full deep.
+   5   Virtue's or vice's theme to thee all one is.
+   6   Who loves chaste life, there's Lucrece for a teacher;
+   7   Who list read lust, there's Venus and Adonis,
+   8   True model of a most lascivious lecher.
+   9   Besides, in plays thy wit winds like Meander,
+  10   Whence needy new composers borrow more
+  11   Than Terence doth from Plautus or Menander.
+  12   But to praise thee aright, I want thy store.
+  13   Then let thine own works thine own worth upraise,
+  14   And help t' adorn thee with deserve\d bays.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 231><H XIn><D 1616><A anonymous>
+   0   <K commendation>
+   0   <T title> [[untitled: Inscriptions upon the Shakespeare monument,       +
+   0   Stratford-upon-Avon]]
+   1   {Iudicio Pylium, genio Socratem, arte Maronem,
+   2   Terra tegit, populus maeret, Olympus habet.}
+   3   <T verse> Stay, passenger, why goest thou by so fast?
+   4   Read, if thou canst, whom envious death hath placed
+   5   Within this monument: Shakespeare, with whom
+   6   Quick nature died; whose name doth deck this tomb
+   7   Far more than cost, sith all that he hath writ
+   8   Leaves living art but page to serve his wit. <T title> {Obiit anno      +
+   8   domini 1616, aetatis 53, die 23 Aprilis}
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 232><H XWB><D 1616-22><A Basse>
+   0   <K commendation>
+   0   <T title>On the death of William Shakespeare
+   1   <T verse>Renowne\d Spenser, lie a thought more nigh
+   2   To learne\d Chaucer; and rare Beaumont, lie
+   3   A little nearer Spenser, to make room
+   4   For Shakespeare in your threefold, fourfold tomb.
+   5   To lodge all four in one bed make a shift
+   6   Until doomsday, for hardly will a fifth
+   7   Betwixt this day and that by fate be slain
+   8   For whom your curtains need be drawn again.
+   9   But if precedency in death doth bar
+  10   A fourth place in your sacred sepulchre,
+  11   Under this carve\d marble of thine own,
+  12   Sleep, rare tragedian Shakespeare, sleep alone.
+  13   Thy unmolested peace, unshare\d cave,
+  14   Possess as lord, not tenant, of thy grave,
+  15   That unto us or others it may be
+  16   Honour hereafter to be laid by thee.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 233><H XTW><D 1622><A Walkley>
+   0   <K commendation>
+   0   <T title>The Stationer to the Reader
+   1   <T prose> To set forth a book without an epistle were like to the
+   2   old English proverb, `A blue coat without a badge", and
+   3   the author being dead, I thought good to take that piece
+   4   of work upon me. To commend it I will not, for that
+   5   which is good, I hope every man will commend without
+   6   entreaty; and I am the bolder because the author's name
+   7   is sufficient to vent his work. Thus, leaving everyone to
+   8   the liberty of judgement, I have ventured to print this
+   9   play, and leave it to the general censure.
+  10   Yours,
+  11   Thomas Walkley.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 234><H XF1F><D 1623><A Jonson>
+   0   <K commendation>
+   0   <T title>[[frontispiece:]] {To the Reader}
+   1   <T verse>This figure that thou here seest put,
+   2   It was for gentle Shakespeare cut,
+   3   Wherein the graver had a strife
+   4   With nature to outdo the life.
+   5   O, could he but have drawn his wit
+   6   As well in brass as he hath hit
+   7   His face, the print would then surpass
+   8   All that was ever writ in brass!
+   9   But since he cannot, reader, look
+  10   Not on his picture, but his book.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <X 235><H XF1E><D 1623><A Hemminges and Condell>
+   0   <T title>The Epistle Dedicatory
+   1   <T prose>TO THE MOST NOBLE
+   2   AND
+   3   INCOMPARABLE PAIR
+   4   OF BRETHREN
+   5   WILLIAM
+   6   Earl of Pembroke, etc., Lord Chamberlain to the
+   7   {King's most excellent majesty,}
+   8   AND
+   9   PHILIP
+  10   Earl of Montgomery, etc., gentleman of his majesty's
+  11   bedchamber; both Knights of the most noble Order
+  12   of the Garter, and our singular good
+  13   LORDS.
+  14   Right Honourable,
+  15   Whilst we study to be thankful in our particular for the
+  16   many favours we have received from your lordships, we
+  17   are fallen upon the ill fortune to mingle two the most
+  18   diverse things that can be: fear and rashness; rashness
+  19   in the enterprise, and fear of the success. For when we
+  20   value the places your highnesses sustain, we cannot but
+  21   know their dignity greater than to descend to the reading
+  22   of these trifles; and while we name them trifles we have
+  23   deprived ourselves of the defence of our dedication. But
+  24   since your lordships have been pleased to think these
+  25   trifles something heretofore, and have prosecuted both
+  26   them and their author, living, with so much favour, we
+  27   hope that, they outliving him, and he not having the
+  28   fate, common with some, to be executor to his own
+  29   writings, you will use the like indulgence toward them you
+  30   have done unto their parent. There is a great difference
+  31   whether any book choose his patrons, or find them. This
+  32   hath done both; for so much were your lordships' likings
+  33   of the several parts when they were acted as, before they
+  34   were published, the volume asked to be yours. We have
+  35   but collected them, and done an office to the dead to
+  36   procure his orphans guardians, without ambition either
+  37   of self-profit or fame, only to keep the memory of so
+  38   worthy a friend and fellow alive as was our Shakespeare,
+  39   by humble offer of his plays to your most noble patronage.
+  40   Wherein, as we have justly observed no man to come
+  41   near your lordships but with a kind of religious address,
+  42   it hath been the height of our care, who are the presenters,
+  43   to make the present worthy of your highnesses by the
+  44   perfection. But there we must also crave our abilities to
+  45   be considered, my lords. We cannot go beyond our own
+  46   powers. Country hands reach forth milk, cream, fruits,
+  47   or what they have; and many nations, we have heard,
+  48   that had not gums and incense, obtained their requests
+  49   with a leavened cake. It was no fault to approach their
+  50   gods by what means they could, and the most,though
+  51   meanest, of things are made more precious when they
+  52   are dedicated to temples. In that name, therefore, we
+  53   most humbly consecrate to your highnesses these remains
+  54   of your servant Shakespeare, that what delight is in them
+  55   may be ever your lordships', the reputation his, and the
+  56   faults ours, if any be committed by a pair so careful
+  57   to show their gratitude both to the living and the dead
+  58   as is
+  59   Your lordships' most bounden,
+  60   JOHN HEMINGES.
+  61   HENRY CONDELL.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 236><HXF1R><D 1623><A Hemminges and Condell>
+   0   <K commendation>
+   0   <T title>{To the Great Variety of Readers}
+   1   <T prose>From the most able to him that can but spell: there
+   2   you are numbered; we had rather you were weighed,
+   3   especially when the fate of all books depends upon your
+   4   capacities, and not of your heads alone, but of your
+   5   purses. Well, it is now public, and you will stand for your
+   6   privileges, we know: to read and censure. Do so, but buy
+   7   it first. That doth best commend a book, the stationer
+   8   says. Then, how odd soever your brains be, or your
+   9   wisdoms, make your licence the same, and spare not.
+  10   Judge your six-penn'orth, your shilling's worth, your five
+  11   shillings' worth at a time, or higher, so you rise to the
+  12   just rates, and welcome. But whatever you do, buy.
+  13   Censure will not drive a trade or make the jack go; and
+  14   though you be a magistrate of wit, and sit on the stage
+  15   at Blackfriars or the Cockpit to arraign plays daily, know,
+  16   these plays have had their trial already, and stood out
+  17   all appeals, and do now come forth quitted rather by
+  18   a decree of court than any purchased letters of
+  19   commendation.
+  20   It had been a thing, we confess, worthy to have been
+  21   wished that the author himself had lived to have set forth
+  22   and overseen his own writings. But since it hath been
+  23   ordained otherwise, and he by death departed from that
+  24   right, we pray you do not envy his friends the office of
+  25   their care and pain to have collected and published them,
+  26   and so to have published them as where, before, you
+  27   were abused with divers stolen and surreptitious copies,
+  28   maimed and deformed by the frauds and stealths of
+  29   injurious impostors that exposed them, even those are
+  30   now offered to your view cured and perfect of their limbs,
+  31   and all the rest absolute in their numbers, as he conceived
+  32   them; who, as he was a happy imitator of nature, was
+  33   a most gentle expresser of it. His mind and hand went
+  34   together, and what he thought he uttered with that
+  35   easiness that we have scarce received from him a blot in
+  36   his papers. But it is not our province, who only gather
+  37   his works and give them you, to praise him; it is yours,
+  38   that read him. And there we hope, to your diverse
+  39   capacities, you will find enough both to draw and hold
+  40   you; for his wit can no more lie hid than it could be lost.
+  41   Read him, therefore, and again, and again, and if then
+  42   you do not like him, surely you are in some manifest
+  43   danger not to understand him. And so we leave you to
+  44   other of his friends whom if you need can be your guides;
+  45   if you need them not, you can lead yourselves and others.
+  46   And such readers we wish him.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 237><H XF1J><D 1623><A Jonson>
+   0   <K commendation>
+   0   <T title>To the memory of my beloved, The AUTHOR MASTER WILLIAM         +
+   0   SHAKESPEARE, AND what he hath left us
+   1   <T verse>To draw no envy, Shakespeare, on thy name
+   2   Am I thus ample to thy book and fame;
+   3   While I confess thy writings to be such
+   4   As neither man nor muse can praise too much:
+   5   'Tis true, and all men's suffrage. But these ways
+   6   Were not the paths I meant unto thy praise,
+   7   For silliest ignorance on these may light,
+   8   Which, when it sounds at best, but echoes right;
+   9   Or blind affection, which doth ne'er advance
+  10   The truth, but gropes, and urgeth all by chance;
+  11   Or crafty malice might pretend this praise,
+  12   And think to ruin where it seemed to raise.
+  13   These are as some infamous bawd or whore
+  14   Should praise a matron: what could hurt her more?
+  15   But thou art proof against them, and indeed
+  16   Above th' ill fortune of them, or the need.
+  17   I therefore will begin. Soul of the age!
+  18   The applause, delight, the wonder of our stage!
+  19   My Shakespeare, rise. I will not lodge thee by
+  20   Chaucer or Spenser, or bid Beaumont lie
+  21   A little further to make thee a room.
+  22   Thou art a monument without a tomb,
+  23   And art alive still while thy book doth live
+  24   And we have wits to read and praise to give.
+  25   That I not mix thee so, my brain excuses:
+  26   I mean with great but disproportioned muses.
+  27   For if I thought my judgement were of years
+  28   I should commit thee surely with thy peers,
+  29   And tell how far thou didst our Lyly outshine,
+  30   Or sporting Kyd, or Marlowe's mighty line.
+  31   And though thou hadst small Latin and less Greek,
+  32   From thence to honour thee I would not seek
+  33   For names, but call forth thund'ring Aeschylus,
+  34   Euripides, and Sophocles to us,
+  35   Pacuvius, Accius, him of Cordova dead,
+  36   To life again, to hear thy buskin tread
+  37   And shake a stage; or, when thy socks were on,
+  38   Leave thee alone for the comparison
+  39   Of all that insolent Greece or haughty Rome
+  40   Sent forth, or since did from their ashes come.
+  41   Triumph, my Britain, thou hast one to show
+  42   To whom all scenes of Europe homage owe.
+  43   He was not of an age, but for all time,
+  44   And all the muses still were in their prime
+  45   When like Apollo he came forth to warm
+  46   Our ears, or like a Mercury to charm!
+  47   Nature herself was proud of his designs,
+  48   And joyed to wear the dressing of his lines,
+  49   Which were so richly spun, and woven so fit,
+  50   As since she will vouchsafe no other wit.
+  51   The merry Greek, tart Aristophanes,
+  52   Neat Terence, witty Plautus, now not please,
+  53   But antiquated and deserted lie
+  54   As they were not of nature's family.
+  55   Yet must I not give nature all; thy art,
+  56   My gentle Shakespeare, must enjoy a part.
+  57   For though the poet's matter nature be,
+  58   His art doth give the fashion; and that he
+  59   Who casts to write a living line must sweat_
+  60   Such as thine are_and strike the second heat
+  61   Upon the muses' anvil, turn the same,
+  62   And himself with it that he thinks to frame;
+  63   Or for the laurel he may gain a scorn,
+  64   For a good poet's made as well as born.
+  65   And such wert thou. Look how the father's face
+  66   Lives in his issue, even so the race
+  67   Of Shakespeare's mind and manners brightly shines
+  68   In his well_turne\d and true-file\d lines,
+  69   In each of which he seems to shake a lance,
+  70   As brandished at the eyes of ignorance.
+  71   Sweet swan of Avon! What a sight it were
+  72   To see thee in our waters yet appear,
+  73   And make those flights upon the banks of Thames
+  74   That so did take Eliza and our James!
+  75   But stay, I see thee in the hemisphere
+  76   Advanced, and made a constellation there!
+  77   Shine forth, thou star of poets, and with rage
+  78   Or influence chide or cheer the drooping stage,
+  79   Which, since thy flight from hence, hath mourned like night
+  80   And despairs day, but for thy volume's light.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 238><H XF1H><D 1623><A Holland>
+   0   <K sonnet>
+   0   <T title>Upon the Lines and Life of the Famous Scenic Poet, Master      +
+   0   William Shakespeare
+   1   <T verse>Those hands which you so clapped go now and wring,
+   2   You Britons brave, for done are Shakespeare's days.
+   3   His days are done that made the dainty plays
+   4   Which made the globe of heav'n and earth to ring.
+   5   Dried is that vein, dried is the Thespian spring,
+   6   Turned all to tears, and Phoebus clouds his rays.
+   7   That corpse, that coffin now bestick those bays
+   8   Which crowned him poet first, then poets' king.
+   9   If tragedies might any prologue have,
+  10   All those he made would scarce make one to this,
+  11   Where fame, now that he gone is to the grave_
+  12   Death's public tiring-house_the {nuntius} is;
+  13   For though his line of life went soon about,
+  14   The life yet of his lines shall never out.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 239><H XF1D><D 1623><A Digges>
+   0   <K commendation>
+   0   <T title> TO THE MEMORY of the deceased author Master William Shakespeare
+   1   <T verse> Shakespeare, at length thy pious fellows give
+   2   The world thy works, thy works by which outlive
+   3   Thy tomb thy name must; when that stone is rent,
+   4   And time dissolves thy Stratford monument,
+   5   Here we alive shall view thee still. This book,
+   6   When brass and marble fade, shall make thee look
+   7   Fresh to all ages. When posterity
+   8   Shall loathe what's new, think all is prodigy
+   9   That is not Shakespeare's ev'ry line, each verse
+  10   Here shall revive, redeem thee from thy hearse.
+  11   Nor fire nor cank'ring age, as Naso said
+  12   Of his, thy wit-fraught book shall once invade;
+  13   Nor shall I e'er believe or think thee dead_
+  14   Though missed_until our bankrupt stage be sped_
+  15   Impossible_with some new strain t' outdo
+  16   Passions of Juliet and her Romeo,
+  17   Or till I hear a scene more nobly take
+  18   Than when thy half-sword parleying Romans spake.
+  19   Till these, till any of thy volume's rest
+  20   Shall with more fire, more feeling be expressed,
+  21   Be sure, our Shakespeare, thou canst never die,
+  22   But crowned with laurel, live eternally.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 240><H F1M><D 1623><A Mabbe>
+   0   <K commendation>
+   0   <T title> To the memory of Master William Shakespeare
+   1   <T verse> We wondered, Shakespeare, that thou went'st so soon
+   2   From the world's stage to the grave's tiring-room.
+   3   We thought thee dead, but this thy printed worth
+   4   Tells thy spectators that thou went'st but forth
+   5   To enter with applause. An actor's art
+   6   Can die, and live to act a second part.
+   7   That's but an exit of mortality;
+   8   This, a re-entrance to a {plaudite}.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 241><H XF1N><D 1623><A anonymous>
+   0   <K commendation>
+   0   <T title>The Names of the Principal Actors in all these Plays
+   1   <T prose> William Shakespeare. Samuel Gilburn.
+   2   Richard Burbage. Robert Armin.
+   3   John Heminges. William Ostler.
+   4   Augustine Phillips. Nathan Field.
+   5   William Kempe. John Underwood.
+   6   Thomas Pope. Nicholas Tooley.
+   7   George Bryan. William Ecclestone.
+   8   Henry Condell. Joseph Taylor.
+   9   William Sly. Robert Benfield.
+  10   Richard Cowley. Robert Gough.
+  11   John Lowin. Richard Robinson.
+  12   Samuel Cross. John Shank.
+  13   Alexander Cook. John Rice.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 242><H XF2M><D 1630><A Milton>
+   0   <K commendation>
+   0   <T title> {An Epitaph on the Admirable Dramatic Poet, William Shakespeare}
+   1   <T verse> What need my Shakespeare for his honoured bones
+   2   The labour of an age in pile\d stones,
+   3   Or that his hallowed relics should be hid
+   4   Under a star-ypointing pyramid?
+   5   Dear son of memory, great heir of fame,
+   6   What need'st thou such dull witness of thy name?
+   7   Thou in our wonder and astonishment
+   8   Hast built thyself a lasting monument,
+   9   For whilst to th' shame of slow-endeavouring art
+  10   Thy easy numbers flow, and that each heart
+  11   Hath from the leaves of thy unvalued book
+  12   Those Delphic lines with deep impression took,
+  13   Then thou, our fancy of herself bereaving,
+  14   Dost make us marble with too much conceiving,
+  15   And so sepulchered in such pomp dost lie
+  16   That kings for such a tomb would wish to die.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 243><H XF2E><D 1632><A anonymous>
+   0   <K commendation>
+   0   <T title> Upon the Effigies of my Worthy Friend, the Author Master      +
+   0   William Shakespeare, and his Works
+   1   <T verse> Spectator, this life's shadow is. To see
+   2   The truer image and a livelier he,
+   3   Turn reader. But observe his comic vein,
+   4   Laugh; and proceed next to a tragic strain,
+   5   Then weep. So when thou find'st two contraries,
+   6   Two different passions from thy rapt soul rise,
+   7   Say_who alone effect such wonders could_
+   8   Rare Shakespeare to the life thou dost behold.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 244><H XF2W><D 1632><A I.M.S.>
+   0   <K commendation>
+   0   <T title> On Worthy Master Shakespeare and his Poems
+   1   <T verse> A mind reflecting ages past, whose clear
+   2   And equal surface can make things appear
+   3   Distant a thousand years, and represent
+   4   Them in their lively colours' just extent;
+   5   To outrun hasty time, retrieve the fates,
+   6   Roll back the heavens, blow ope the iron gates
+   7   Of death and Lethe, where confuse\d lie
+   8   Great heaps of ruinous mortality;
+   9   In that deep dusky dungeon to discern
+  10   A royal ghost from churls; by art to learn
+  11   The physiognomy of shades, and give
+  12   Them sudden birth, wond'ring how oft they live;
+  13   What story coldly tells, what poets feign
+  14   At second hand, and picture without brain
+  15   Senseless and soulless shows; to give a stage,
+  16   Ample and true with life, voice, action, age,
+  17   As Plato's year and new scene of the world
+  18   Them unto us or us to them had hurled;
+  19   To raise our ancient sovereigns from their hearse,
+  20   Make kings his subjects; by exchanging verse
+  21   Enlive their pale trunks, that the present age
+  22   Joys in their joy, and trembles at their rage;
+  23   Yet so to temper passion that our ears
+  24   Take pleasure in their pain, and eyes in tears
+  25   Both weep and smile: fearful at plots so sad,
+  26   Then laughing at our fear; abused, and glad
+  27   To be abused, affected with that truth
+  28   Which we perceive is false; pleased in that ruth
+  29   At which we start, and by elaborate play
+  30   Tortured and tickled; by a crablike way
+  31   Time past made pastime, and in ugly sort
+  32   Disgorging up his ravin for our sport,
+  33   While the plebeian imp from lofty throne
+  34   Creates and rules a world, and works upon
+  35   Mankind by secret engines; now to move
+  36   A chilling pity, then a rigorous love;
+  37   To strike up and stroke down both joy and ire;
+  38   To steer th' affections, and by heavenly fire
+  39   Mould us anew;  stol'n from ourselves_
+  40   This, and much more which cannot be expressed
+  41   But by himself, his tongue and his own breast,
+  42   Was Shakespeare's freehold, which his cunning brain
+  43   Improved by favour of the ninefold train.
+  44   The buskined muse, the comic queen, the grand
+  45   And louder tone of Clio; nimble hand
+  46   And nimbler foot of the melodious pair,
+  47   The silver-voice\d lady, the most fair
+  48   Calliope, whose speaking silence daunts,
+  49   And she whose praise the heavenly body chants.
+  50   These jointly wooed him, envying one another,
+  51   Obeyed by all as spouse, but loved as brother,
+  52   And wrought a curious robe of sable grave,
+  53   Fresh green, and pleasant yellow, red most brave,
+  54   And constant blue, rich purple, guiltless white,
+  55   The lowly russet, and the scarlet bright,
+  56   Branched and embroidered like the painted spring,
+  57   Each leaf matched with a flower, and each string
+  58   Of golden wire, each line of silk; there run
+  59   Italian works whose thread the sisters spun,
+  60   And there did sing, or seem to sing, the choice
+  61   Birds of a foreign note and various voice.
+  62   Here hangs a mossy rock, there plays a fair
+  63   But chiding fountain purle\d. Not the air
+  64   Nor clouds nor thunder but were living drawn
+  65   Not out of common tiffany or lawn,
+  66   But fine materials which the muses know,
+  67   And only know the countries where they grow.
+  68   Now when they could no longer him enjoy
+  69   In mortal garments pent: death may destroy,
+  70   They say, his body, but his verse shall live,
+  71   And more than nature takes our hands shall give.
+  72   In a less volume, but more strongly bound,
+  73   Shakespeare shall breathe and speak, with laurel crowned,
+  74   Which never fades; fed with Ambrosian meat
+  75   In a well-line\d vesture rich and neat.
+  76   So with this robe they clothe him, bid him wear it,
+  77   For time shall never stain, nor envy tear it. <T title>`The friendly    +
+  77   admirer of his endowments", I.M.S.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 245><H XLD><D 1636 or before><A Digges>
+   0   <K commendation>
+   0   <T title>Upon Master WILLIAM SHAKESPEARE, the {Deceased Author, and his}+
+   0   POEMS
+   1   <T verse> Poets are born, not made: when I would prove
+   2   This truth, the glad remembrance I must love
+   3   Of never-dying Shakespeare, who alone
+   4   Is argument enough to make that one.
+   5   First, that he was a poet none would doubt
+   6   That heard th' applause of what he sees set out
+   7   Imprinted, where thou hast_I will not say,
+   8   Reader, his works, for to contrive a play
+   9   To him 'twas none_the pattern of all wit,
+  10   Art without art unparalleled as yet.
+  11   Next, nature only helped him, for look thorough
+  12   This whole book, thou shalt find he doth not borrow
+  13   One phrase from Greeks, nor Latins imitate,
+  14   Nor once from vulgar languages translate,
+  15   Nor plagiary-like from others glean,
+  16   Nor begs he from each witty friend a scene
+  17   To piece his acts with. All that he doth write
+  18   Is pure his own_plot, language exquisite_
+  19   But O! what praise more powerful can we give
+  20   The dead than that by him the King's men live,
+  21   His players, which should they but have shared the fate,
+  22   All else expired within the short term's date,
+  23   How could the Globe have prospered, since through want
+  24   Of change the plays and poems had grown scant.
+  25   But, happy verse, thou shalt be sung and heard
+  26   When hungry quills shall be such honour barred.
+  27   Then vanish, upstart writers to each stage,
+  28   You needy poetasters of this age;
+  29   Where Shakespeare lived or spake, vermin, forbear;
+  30   Lest with your froth you spot them, come not near.
+  31   But if you needs must write, if poverty
+  32   So pinch that otherwise you starve and die,
+  33   On God's name may the Bull or Cockpit have
+  34   Your lame blank verse, to keep you from the grave,
+  35   Or let new Fortune's younger brethren see
+  36   What they can pick from your lean industry.
+  37   I do not wonder, when you offer at
+  38   Blackfriars, that you suffer; 'tis the fate
+  39   Of richer veins, prime judgements that have fared
+  40   The worse with this decease\d man compared.
+  41   So have I seen, when Caesar would appear,
+  42   And on the stage at half-sword parley were
+  43   Brutus and Cassius; O, how the audience
+  44   Were ravished, with what wonder they went thence,
+  45   When some new day they would not brook a line
+  46   Of tedious though well-laboured {Catiline}.
+  47   Sejanus too was irksome, they prized more
+  48   Honest Iago, or the jealous Moor.
+  49   And though the Fox and subtle Alchemist,
+  50   Long intermitted, could not quite be missed,
+  51   Though these have shamed all the ancients, and might raise
+  52   Their author's merit with a crown of bays,
+  53   Yet these, sometimes, even at a friend's desire
+  54   Acted, have scarce defrayed the seacoal fire
+  55   And doorkeepers; when let but Falstaff come,
+  56   Hal, Poins, the rest, you scarce shall have a room,
+  57   All is so pestered. Let but Beatrice
+  58   And Benedick be seen, lo, in a trice
+  59   The Cockpit galleries, boxes, all are full
+  60   To hear Malvolio, that cross-gartered gull.
+  61   Brief, there is nothing in his wit-fraught book
+  62   Whose sound we would not hear, on whose worth look;
+  63   Like old-coined gold, whose lines in every page
+  64   Shall pass true current to succeeding age.
+  65   But why do I dead Shakespeare's praise recite?
+  66   Some second Shakespeare must of Shakespeare write;
+  67   For me 'tis needless, since an host of men
+  68   Will pay to clap his praise, to free my pen.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 246><H XWD><D 1637><A Davanant>
+   0   <K commendation>
+   0   <T title> In remembrance of Master {William Shakespeare.}
+   0   ODE
+   1   <T verse> Beware, delighted poets, when you sing
+   2   To welcome nature in the early spring,
+   3   Your num'rous feet not tread
+   4   The banks of Avon; for each flower
+   5   (As it ne'er knew a sun or shower)
+   6   Hangs there the pensive head.
+   7   Each tree, whose thick and spreading growth hath made
+   8   Rather a night beneath the boughs than shade,
+   9   Unwilling now to grow,
+  10   Looks like the plume a captive wears,
+  11   Whose rifled falls are steeped i' th' tears
+  12   Which from his last rage flow.
+  13   The piteous river wept itself away
+  14   Long since, alas, to such a swift decay
+  15   That, reach the map and look
+  16   If you a river there can spy,
+  17   And for a river your mocked eye
+  18   Will find a shallow brook.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 247><H XED><D 1638 or before><A anonymous>
+   0   <K commendation>
+   0   <T title> {An Elegy on the death of that famous Writer and Actor, Master+
+   0   William Shakspeare}
+   1   <T verse> I dare not do thy memory that wrong
+   2   Unto our larger griefs to give a tongue;
+   3   I'll only sigh in earnest, and let fall
+   4   My solemn tears at thy great funeral,
+   5   For every eye that rains a show'r for thee
+   6   Laments thy loss in a sad elegy.
+   7   Nor is it fit each humble muse should have
+   8   Thy worth his subject, now thou'rt laid in grave;
+   9   No, it's a flight beyond the pitch of those
+  10   Whose worthless pamphlets are not sense in prose.
+  11   Let learne\d Jonson sing a dirge for thee,
+  12   And fill our orb with mournful harmony;
+  13   But we need no remembrancer; thy fame
+  14   Shall still accompany thy honoured name
+  15   To all posterity, and make us be
+  16   Sensible of what we lost in losing thee,
+  17   Being the age's wonder, whose smooth rhymes
+  18   Did more reform than lash the looser times.
+  19   Nature herself did her own self admire
+  20   As oft as thou wert please\d to attire
+  21   Her in her native lustre, and confess
+  22   Thy dressing was her chiefest comeliness.
+  23   How can we then forget thee, when the age
+  24   Her chiefest tutor, and the widowed stage
+  25   Her only favourite, in thee hath lost,
+  26   And nature's self what she did brag of most?
+  27   Sleep, then, rich soul of numbers, whilst poor we
+  28   Enjoy the profits of thy legacy,
+  29   And think it happiness enough we have
+  30   So much of thee redeeme\d from the grave
+  31   As may suffice to enlighten future times
+  32   With the bright lustre of thy matchless rhymes.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 248><H XB1><D 1639><A Bancroft>
+   0   <K commendation>
+   0   <T title> To Shakespeare
+   1   <T verse> Thy muse's sugared dainties seem to us
+   2   Like the famed apples of old Tantalus,
+   3   For we, admiring, see and hear thy strains,
+   4   But none I see or hear those sweets attains.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 249><H XB2><D 1639><A Bancroft>
+   0   <K commendation>
+   0   <T title> To the same
+   1   <T verse> Thou hast so used thy pen, or shook thy spear,
+   2   That poets startle, nor thy wit come near.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 250><H XWS><D 1640><A anonymous>
+   0   <K commendation>
+   0   <T title> To Master William Shakespeare
+   1   <T verse> Shakespeare, we must be silent in thy praise,
+   2   'Cause our encomiums will but blast thy bays,
+   3   Which envy could not, that thou didst so well;
+   4   Let thine own histories prove thy chronicle.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 251><H XJB><D 1640><A Benson>
+   0   <K commendation>
+   0   <T title> To the Reader
+   1   <T prose> I here presume, under favour, to present to your view
+   2   some excellent and sweetly composed poems of Master
+   3   William Shakespeare, which in themselves appear of the
+   4   same purity the author himself, then living, avouched.
+   5   They had not the fortune, by reason of their infancy in
+   6   his death, to have the due accommodation of proportionable
+   7   glory with the rest of his ever-living works,
+   8   yet the lines of themselves will afford you a more authentic
+   9   approbation than my assurance any way can; to invite
+  10   your allowance, in your perusal you shall find them
+  11   serene, clear, and elegantly plain, such gentle strains as
+  12   shall recreate and not perplex your brain, no intricate or
+  13   cloudy stuff to puzzle intellect, but perfect eloquence, such
+  14   as will raise your admiration to his praise. This assurance,
+  15   I know, will not differ from your acknowledgement; and
+  16   certain I am my opinion will be seconded by the sufficiency
+  17   of these ensuing lines. I have been somewhat solicitous
+  18   to bring this forth to the perfect view of all men, and in
+  19   so doing, glad to be serviceable for the continuance of
+  20   glory to the deserved author in these his poems.
+       <A ><D ><H ><K ><O ><T >
+
+   0   <O 252><H XJW2><D 1640><A Warren>
+   0   <K sonnet>
+   0   <T title> Of Master {William Shakespeare}
+   1   <T verse> What, lofty Shakespeare, art again revived,
+   2   And Virbius-like now show'st thyself twice lived?
+   3   'Tis Benson's love that thus to thee is shown,
+   4   The labour's his, the glory still thine own.
+   5   These learne\d poems amongst thine after-birth,
+   6   That makes thy name immortal on the earth,
+   7   Will make the learne\d still admire to see
+   8   The muses' gifts so fully infused on thee.
+   9   Let carping Momus bark and bite his fill,
+  10   And ignorant Davus slight thy learne\d skill,
+  11   Yet those who know the worth of thy desert,
+  12   And with true judgement can discern thy art,
+  13   Will be admirers of thy high-tuned strain,
+  14   Amongst whose number let me still remain.
+       <A ><D ><H ><K ><O ><T >
+
